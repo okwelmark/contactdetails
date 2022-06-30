@@ -9,7 +9,7 @@
     <h3><center>My contact details</center></h3>
         <img src="u.jpeg" width="200" height="200"
         float: center; alt="okwel edgar mark"/>
-        <br />
+        <br >
         <caption>
           <i>taken by mcedgars</i>
         </caption>
@@ -19,4 +19,3 @@
         <p>okwel.edgar@students.mak.ac.ug</p>
         <hr /> 
 </body>
-</html>
