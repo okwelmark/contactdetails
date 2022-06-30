@@ -7,8 +7,7 @@
     <head>
 <body>
     <h3><center>My contact details</center></h3>
-        <img src="u.jpeg" width="200" height="200"
-        float: center; alt="okwel edgar mark"/>
+        <img src="u.jpeg" width="200" height="200" alt="okwel edgar mark">
         <br >
         <caption>
           <i>taken by mcedgars</i>
